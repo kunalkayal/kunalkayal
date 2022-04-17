@@ -3,7 +3,7 @@
 </p> 
 <h2 align="center"><img alt="GIF" src="https://github.com/Kunal-Kayal/ud839_Miwok/blob/7b4f41cd9ae471daec26393aef183edebba15dea/banner.jpg" width="auto" height="auto" /></h2>
 <h1 align="center">Hi 👋, I'm Kunal Kayal</h1>
-<h3 align="center">An opensource contributor | Third year undergraduate in Information Technology| Passoniate in mobile application development</h3>
+<h3 align="center">An opensource contributor | Third year undergraduate in Information Technology</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
 
 - 🔭 I’m currently working under **GSSOC'22**
