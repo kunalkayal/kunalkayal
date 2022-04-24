@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently persuing **B.Tech from GCECT**
 
-- 👯 I’m looking to collaborate on **android project**
+- 👯 I’m looking for internship to collaborate on **android project**
 
 - 💬 Ask me about **android , java**
 
