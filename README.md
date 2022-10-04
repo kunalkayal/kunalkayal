@@ -34,4 +34,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-kayal&theme=tokyonight" alt="kunal-kayal" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal-kayal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="kunal-kayal" /></p>
+[![@codder's Holopin board](https://holopin.io/api/user/board?user=codder)](https://holopin.io/@codder)
 
