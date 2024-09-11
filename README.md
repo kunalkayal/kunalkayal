@@ -3,16 +3,16 @@
 </p> 
 <h2 align="center"><img alt="GIF" src="https://github.com/Kunal-Kayal/ud839_Miwok/blob/7b4f41cd9ae471daec26393aef183edebba15dea/banner.jpg" width="auto" height="auto" /></h2>
 <h1 align="center">Hi 👋, I'm Kunal Kayal</h1>
-<h3 align="center">An opensource contributor | Third year undergraduate in Information Technology</h3>
+<h3 align="center">An opensource contributor |Student at MNNIT Allahbad</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2zeji2UedvZzvIZ45N/giphy.gif">
 
-- 🔭 I’m currently working under **GSSOC'22**
+- 🔭 I’m currently learning javascript.
 
-- 🌱 I’m currently persuing **B.Tech from GCECT**
+- 🌱 I’m currently persuing **M.Tech from MNNITA**
 
-- 👯 I’m looking for internship to collaborate on **android project**
+- 👯 I’m looking for internship to collaborate on **java,javascript**
 
-- 💬 Ask me about **android , java**
+- 💬 Ask me about **java**
 
 - 📫 How to reach me **kunalkayal69@gmail.com**
 
