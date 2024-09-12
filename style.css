@@ -303,18 +303,18 @@ nav .nav-bar .logo a {
 
 /* Your existing CSS code goes here */
 
-/* body {
+body {
     margin: 0;
     padding: 0;
     font-family: Arial, sans-serif;
-} */
+} 
 
-/* .navbar {
+ .navbar {
     background-color: #2d2e32;
     color: #fff;
     padding: 10px;
-} */
-/* 
+} 
+
 .header-section1 {
     display: flex;
     align-items: center;
@@ -360,7 +360,6 @@ nav .nav-bar .logo a {
     flex-wrap: wrap;
     justify-content: space-between;
 }
-*/
 .card {
     width: 45%;
     padding: 0px;
