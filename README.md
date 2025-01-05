@@ -42,14 +42,10 @@
 </div>
 </p>
 
-
-<p>
-<div style="display: flex; justify-content: space-between;">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kunalkayal&show_icons=true&locale=en&theme=tokyonight" alt="kunalkayal" /></p>
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkayal&theme=tokyonight" alt="kunalkayal" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kunalkayal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkayal&theme=tokyonight"  height="150" alt="kunalkayal" />
 </div>
-</p>
 
 
 <h3 align="left">Connect with me:</h3>
