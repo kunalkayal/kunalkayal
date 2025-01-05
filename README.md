@@ -43,9 +43,13 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kunalkayal&show_icons=true&locale=en&theme=tokyonight" alt="kunalkayal" /></p>
+<p>
+<div style="display: flex; justify-content: space-between;">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=kunalkayal&show_icons=true&locale=en&theme=tokyonight" alt="kunalkayal" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkayal&theme=tokyonight" alt="kunalkayal" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kunalkayal&theme=tokyonight" alt="kunalkayal" />
+</div>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
